@@ -1,7 +1,4 @@
-#!/bin/bash
-cho "ALX" 
-^c
-[B
-
-
-[C
+echo "Alx school"
+#!/bin/bash:C
+:C
+vi
